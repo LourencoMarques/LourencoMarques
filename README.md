@@ -1,5 +1,5 @@
 - 👋 Ola, Sou o @LourencoMarques.
-- tenho 22 anos.
+- Tenho 22 anos.
 - Amo Tecnologia.
 - Sou muito curioso e determinado.
 - Quando encontro um problema não descanso enquando não encontrar a solução.
