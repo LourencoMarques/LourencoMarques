@@ -1,4 +1,4 @@
-- 👋 Ola, Sou o @LourencoMarque
+- 👋 Ola, Sou o @LourencoMarques.
 - tenho 22 anos.
 - Amo Tecnologia.
 - Sou muito curioso e determinado.
